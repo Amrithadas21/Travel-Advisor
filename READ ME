@@ -1,0 +1,45 @@
+TRAVEL ADVISOR
+
+# 🌍 Travel Advisor
+
+A responsive and interactive Travel Advisor web app built with **React** and the **Google Maps API**. Discover top-rated restaurants, hotels, and attractions around the world based on your location and preferences.
+
+![Travel Advisor Banner]
+
+
+## ✨ Features
+
+- 🌐 Interactive Google Map to explore places
+- 🔍 Search for places using autocomplete
+- 🏨 View hotels, restaurants, and attractions with ratings and reviews
+- 📱 Fully responsive design for mobile and desktop
+- 📊 Filter results by rating and type
+
+## 🛠️ Technologies Used
+
+- **React** (with Hooks and Context API)
+- **Google Maps JavaScript API**
+- **Google Places API**
+- **Material-UI (MUI)** for UI components
+- **Axios** for API requests
+- **Geolocation API** for detecting user location
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed
+- Google Cloud Platform account with Maps and Places APIs enabled
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/travel-advisor.git
+   cd travel-advisor
+npm install
+npm start
+
+
+
+Setup: run npm i && npm start to start the development server
